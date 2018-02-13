@@ -11,6 +11,17 @@ nav{
 	margin: 5px;
 	max-height: 480px;
 }
+#mapa{
+	margin: 5px;
+	text-align:center;
+}
+#mapa iframe{
+	width:600px;
+	height:450px;
+	border-width: 0px;
+	border:0;
+	}
+
 
 
 footer{
@@ -33,5 +44,12 @@ footer .col-sm-6{
 
 	#slogan img{
 	max-height: 280px;
+	}
+
+	#mapa iframe{
+	width:400px;
+	height:300px;
+	border-width: 0px;
+	border:0;
 	}
 }
